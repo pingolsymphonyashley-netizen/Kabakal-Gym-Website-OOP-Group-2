@@ -11,7 +11,6 @@ body {
 
 .tabs-title, .calendar-month { text-align: center; text-transform: uppercase; }
 
-/* date buttons */
 .date-selector { display: flex; gap: 10px; justify-content: center; margin: 20px 0; }
 .date-item {
     background: transparent;
@@ -34,7 +33,6 @@ body {
 
 .status-badge { font-size: 0.7rem; background: #228B22; color: #fff; padding: 2px 8px; border-radius: 10px; }
 
-/* subscription button */
 .cta-button {
     background-color: #f7f014;
     color: #060407;
@@ -48,7 +46,6 @@ body {
 }
 .cta-button:hover { background-color: #595326; color: #f7f014; }
 
-/* navigation */
 .bottom-nav-bar {
     position: fixed; bottom: 0; left: 0; width: 100%; height: 60px;
     display: flex; justify-content: space-around; align-items: center;
